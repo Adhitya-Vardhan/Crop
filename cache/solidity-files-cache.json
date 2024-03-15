@@ -1,0 +1,110 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/adithya/Desktop/BTP/Project/contracts/Upload.sol": {
+      "lastModificationDate": 1707220465252,
+      "contentHash": "00e7a58dadda8f12dd0b41d123335f37",
+      "sourceName": "contracts/Upload.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "Upload"
+      ]
+    },
+    "/home/adithya/Desktop/tweeks/tweeker/contracts/Upload.sol": {
+      "lastModificationDate": 1709908376104,
+      "contentHash": "828ffd15d2e8951e6064696d516b5b06",
+      "sourceName": "contracts/Upload.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "Upload"
+      ]
+    },
+    "/home/adithya/Desktop/tweeks/cropchain/contracts/Upload.sol": {
+      "lastModificationDate": 1710072634280,
+      "contentHash": "59437cbfe373185db6f8847443e284a2",
+      "sourceName": "contracts/Upload.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "Upload"
+      ]
+    }
+  }
+}
